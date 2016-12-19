@@ -138,16 +138,18 @@ div.data_count {
 table{
   font-size: 16px !important;
 }
-/*
+
 .dc-table-column._4{
   width: 80px !important;
 
 }
 .dc-table-column._1{
- width: 80px !important;
-}*/
-
-
-/*th.dis_table_th_width {
+ width: 60px !important;
+}
+.dc-table-column._0{
+ width: 60px !important;
+}
+/*
+th.dis_table_th_width {
   width: 70px !important;
 }*/
