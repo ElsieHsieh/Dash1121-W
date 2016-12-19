@@ -86,9 +86,6 @@ rect:hover {
   font-size:20px;
 }
 
-th.dis_table_th_width {
-  width: 70px !important;
-}
 
 td.dc-table-label {
   background-color: #d9edf7
@@ -141,11 +138,16 @@ div.data_count {
 table{
   font-size: 16px !important;
 }
-
+/*
 .dc-table-column._4{
   width: 80px !important;
 
 }
 .dc-table-column._1{
  width: 80px !important;
-}
+}*/
+
+
+/*th.dis_table_th_width {
+  width: 70px !important;
+}*/
